@@ -4,9 +4,9 @@ This code implements [Adaptive Bayesian Optimization (ABO)](https://www.github.c
 
 ## Setup
 
-The root folder contains the file `start.m` which adds the relevent dependencies to the current path. Make sure you run this file before executing anything. 
+The root folder contains the file `start.m` which adds the relevent dependencies to the current path. Make sure you run this file before executing anything.
 
-The root folder also contains demo files for how to use the various features, and the methods have comments about their inputs and outputs.   
+To run in MATLAB/Ocatve, Go to /abo_olps/OLPS/ at the command prompt and run `OLPS_cli.m` for the standard OLPS tests and `OLPS_cli_abo.m` for tests with ABO adaptive configuration included.   
 
 # References
 
