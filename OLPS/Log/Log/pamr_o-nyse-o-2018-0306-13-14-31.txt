@@ -1,0 +1,5 @@
+Running strategy pamr_o on dataset nyse-o.
+Start Time: 2018-0306-13-14-31-330.
+-------------------------------------
+Parameters [epsilon:0.50, tc:0.0000]
+day	 Daily Return	 Total return

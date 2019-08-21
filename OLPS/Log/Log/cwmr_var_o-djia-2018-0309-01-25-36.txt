@@ -1,0 +1,9 @@
+Running strategy cwmr_var_o on dataset djia.
+Start Time: 2018-0309-01-25-36-283.
+-------------------------------------
+Parameters [phi:2.000000, epsilon:0.500000, tc:0.000000]
+day	 Daily Return	 Total return
+1	1.002615	1.002615
+2	0.981832	0.984400
+3	1.024486	1.008504
+4	0.968952	0.977192

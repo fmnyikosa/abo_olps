@@ -1,0 +1,10 @@
+Running strategy pamr_o on dataset djia.
+Start Time: 2018-0309-01-26-38-122.
+-------------------------------------
+Parameters [epsilon:0.50, tc:0.0000]
+day	 Daily Return	 Total return
+1	1.002615	1.002615
+2	0.981833	0.984401
+3	1.024486	1.008505
+4	0.970985	0.979243
+5	1.004562	0.983710
