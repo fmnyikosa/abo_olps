@@ -119,9 +119,9 @@ if (opts.log_mode)
     fclose(fid);
 end
 
-%% Send the results to email: fmnyikosa@gmail.com
+%% Send the results to email:
 if (opts.log_mode) && (opts.mat_mode)
-    msg_rcv    = ['favour@nyikosa.com'];
+    msg_rcv    = [''];
     msg_head   = ['Results from MATLAB:' strategy_name '-' dataset_name '-' dt ];
     msg_body   = ['cum_ret',num2str(cum_ret),'    ','run_time', num2str(run_time)];
     msg_attach = [file_name];
